@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "1wCz1ZXvMCg=",
+  "success": true,
+  "projectFilePath": "/Users/timofeyukhanov/Documents/projects/mai/kg/labs_sharp/CG3/CG3.csproj",
+  "expectedPackageFiles": [
+    "/Users/timofeyukhanov/.nuget/packages/opentk/4.9.2/opentk.4.9.2.nupkg.sha512",
+    "/Users/timofeyukhanov/.nuget/packages/opentk.audio.openal/4.9.2/opentk.audio.openal.4.9.2.nupkg.sha512",
+    "/Users/timofeyukhanov/.nuget/packages/opentk.compute/4.9.2/opentk.compute.4.9.2.nupkg.sha512",
+    "/Users/timofeyukhanov/.nuget/packages/opentk.core/4.9.2/opentk.core.4.9.2.nupkg.sha512",
+    "/Users/timofeyukhanov/.nuget/packages/opentk.graphics/4.9.2/opentk.graphics.4.9.2.nupkg.sha512",
+    "/Users/timofeyukhanov/.nuget/packages/opentk.input/4.9.2/opentk.input.4.9.2.nupkg.sha512",
+    "/Users/timofeyukhanov/.nuget/packages/opentk.mathematics/4.9.2/opentk.mathematics.4.9.2.nupkg.sha512",
+    "/Users/timofeyukhanov/.nuget/packages/opentk.redist.glfw/3.3.8.39/opentk.redist.glfw.3.3.8.39.nupkg.sha512",
+    "/Users/timofeyukhanov/.nuget/packages/opentk.windowing.common/4.9.2/opentk.windowing.common.4.9.2.nupkg.sha512",
+    "/Users/timofeyukhanov/.nuget/packages/opentk.windowing.desktop/4.9.2/opentk.windowing.desktop.4.9.2.nupkg.sha512",
+    "/Users/timofeyukhanov/.nuget/packages/opentk.windowing.graphicslibraryframework/4.9.2/opentk.windowing.graphicslibraryframework.4.9.2.nupkg.sha512",
+    "/Users/timofeyukhanov/.nuget/packages/system.runtime.compilerservices.unsafe/5.0.0/system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "/Users/timofeyukhanov/.nuget/packages/microsoft.netcore.app.ref/8.0.11/microsoft.netcore.app.ref.8.0.11.nupkg.sha512",
+    "/Users/timofeyukhanov/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.11/microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512",
+    "/Users/timofeyukhanov/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.11/microsoft.netcore.app.host.osx-arm64.8.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
